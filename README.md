@@ -1,4 +1,4 @@
-# TSF-Task3
+# Payment Gateway Integration - Donation Website
 The Sparks Foundation Web Development &amp; Designing - Payment Gateway Integration
 
 * Website link: https://donation-website-jet.vercel.app/
